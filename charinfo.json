@@ -1,0 +1,314 @@
+[
+    {
+        "characterName": "Jin Kazama",
+        "bio": "Despising the cursed blood that ran through his veins, Jin Kazama sought to bring an end to the devil bloodline. He joined forces with Lars Alexandersson, and together they prepared to commence Operation Lightning, a plan to eliminate the other bearer of the devil gene, Kazuya Mishima. Jin had once plunged the world into chaos in order to resurrect Azazel, the devil gene's progenitor. His plan was to permanently extinguish the devil gene by defeating Azazel once and for all, even if it cost him his own life. While Jin managed to defeat Azazel, he lost consciousness and fell into a deep sleep. During his absence, G Corporation, led by Kazuya, took over the world by force. Several months later, Jin finally regained consciousness. His deadly struggle with Azazel had taught him how to control his inner devil power. Jin swore to end Kazuya's reign of terror in order to atone for the war and destruction he had caused.",
+        "birthday": "August 5th",
+        "country": "Japan",
+        "style": "Karate",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/CSlAd5qETdKPCZ06jH88"
+    },
+    {
+        "characterName": "Kazuya Mishima",
+        "bio": "Using the full extent of his devil power and G Corporation, Kazuya Mishima went on a conquest for world domination. After defeating his father Heihachi Mishima, Kazuya intensifies his offensive to eliminate the leaderless Mishima Zaibatsu. This brutal war divided the world in two, and in the end G Corporation came out on top. However, G corporation showed no signs of relenting, and continued to dominate the world by force. The Union of Nations was appalled by these actions, and they gathered various world leaders in New York to discuss how to impose sanctions against G Corporation. But then, Kazuya himself showed up to the meeting and announced that he would continue to wage war. He then unleashed G Corporation's army on New York, setting the entire city ablaze.",
+        "birthday": "November 2nd",
+        "country": "None (Relinquished his Japanese nationality)",
+        "style": "Mishima-Style Fighting Karate",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/XeLA1vLjRWyGGsIGBVcG"
+    },
+    {
+        "characterName": "King",
+        "bio": "King is active on the pro wrestling circuit and also manages an orphanage on the side. The war between G Corporation and Mishima Zaibatsu has ravaged the world, causing an unprecedented swell in the number of children needing his help. King may be the undisputed champion of the wrestling world, but he will need to put on a spectacle far beyond the bright arena lights if he is to earn the funds required to help all those orphans. Anticipating the need for allies to help realize such aspirations, he set out to hone his body and wrestling skills in preparation of meeting such like-minded individuals.",
+        "birthday": "May 26th",
+        "country": "Mexico",
+        "style": "Pro Wrestling",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/ESDBWWFCTiWikbaNUkLm"
+    },
+    {
+        "characterName": "Jun Kazama",
+        "bio": "Jun Kazama, the mother of Jin, is a practitioner of the Kazama-Style Traditional Martial Arts. Jun displayed a propensity in communicating with animals from a very young age. She went on to become a wildlife surveillance officer for a conservation group where she pursued Kazuya Mishima, who was suspected of smuggling protected animals. The two met and became close at the second The King of Iron Fist Tournament. Soon after, Jun became pregnant with Jin. Jun went on to raise Jin in the same place where she was born, in the remote mountains of Yakushima. However, seven years ago, one day when Jin turned 15 years old, Jun was attacked by a mysterious being known as Ogre and disappeared without a trace.",
+        "birthday": "September 18th",
+        "country": "Japan",
+        "style": "Kazama-Style Traditional Martial Arts",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/HYPu2zYzRLerS3eqfTwF"
+    },
+    {
+        "characterName": "Paul Phoenix",
+        "bio": "Paul Phoenix is a hot-blooded martial artist aiming to be the greatest fighter in the universe. He entered the seventh The King of Iron Fist Tournament with his eyes on the exorbitant prize money, more assured than ever that this time he would claim victory. The tournament, however, would be suspended with the disappearance of its organizer. Paul received barely a fraction of the fight money he had been counting on, plunging him into a life of destitution. All he could do was take a gamble that the next tournament would be able to provide him with sufficient compensation. To that end, he promised to split his next winnings with his good friend and sparring partner, Marshall Law. The pair holed up in the mountains for an intense training session in order to prepare for the tournament.",
+        "birthday": "April 3rd",
+        "country": "U.S.A.",
+        "style": "Integrated Martial Arts Based on Judo",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/Wys7Ej5R1qxZqLC63aDw"
+    },
+    {
+        "characterName": "Marshall Law",
+        "bio": "Marshall Law is a renowned martial arts master and runs his own dojo. However, he fell into debt due to his son's motorcycle accident, and his efforts to repay this debt caused him to neglect the management of his dojo, resulting in a sharp drop-off of students coming to train. Law set out to find a distinguished master who could take over the dojo and solve all his troubles. Unfortunately, all negotiations ended in failure, and to make matters worse, his dojo was repossessed as collateral while he was gone. Now plunged into poverty, Law became bound by the concept of money making the world go round. His only hope was to make a killing at the next tournament and secure the prize money he so desperately needed. To increase his chances of success, he promised to split the winnings with his friend Paul Phoenix. Together, the pair journeyed to the mountains in order to train.",
+        "birthday": "September 10th",
+        "country": "U.S.A.",
+        "style": "Martial Arts",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/BqxsOMlvRseUr3F7aO2G"
+    },
+    {
+        "characterName": "Jack-8",
+        "bio": "Jack-8 is the latest prototype in the Jack series, G Corporation's premier humanoid weapon. The developer assigned to the Jack-8, Jane, once had her life saved by Jack. She joined G Corporation and worked day and night to create her ideal Jack machine. While the Jack series was already well established within G Corporation's product line, Jane continued to devote herself to perfecting the Jack design. Her designs for the next-generation Jack included a vastly improved AI to that of the Jack-7 model, capable of learning with incredible speed and accuracy. She also sought to significantly increase Jack's firepower with heavy-duty special armaments and an electromagnetic pulse weapon known as the Gamma System. Amid the chaos caused by Kazuya and G Corporation's tightening grip over the world, the order finally came to deploy Jack-8 into battle...",
+        "birthday": "June 6th",
+        "country": "Unknown",
+        "style": "Sheer Force",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/jfM0neQn21GVVdADnSng"
+    },
+    {
+        "characterName": "Lars Alexandersson",
+        "bio": "Lars Alexandersson is Heihachi Mishima's illegitimate son and the leader of the rebel army fighting against G Corporation. A former officer of the Mishima Zaibatsu's special military unit known as the Tekken Force, Lars led a coup d'état against the Zaibatsu and took many of the Tekken Force personnel with him. Not long after the coup, the world fell under the control of G Corporation led by Kazuya Mishima. Lars formed a new rebel army called Yggdrasil and amassed enough military strength to launch a revolt against the tyrant. Lars even formed an alliance with his long-time enemy, Jin Kazama, and began preparations for Operation Lightning, a plan to take down Kazuya and bring peace to the world.",
+        "birthday": "September 27th",
+        "country": "Sweden",
+        "style": "Tekken Force Martial Arts",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/gOpaL3oEQ0CcGoqVX3fq"
+    },
+    {
+        "characterName": "Ling Xiaoyu",
+        "bio": "Ling Xiaoyu is a Chinese martial arts master who has feelings for Jin Kazama. She infiltrates the Mishima Zaibatsu building in search of clues to find a missing Jin and to obtain data that would prove helpful in her search. Traveling around the world and following whatever traces she can find, six months have passed for Xiaoyu with no hope in sight. Xiaoyu has run out of leads, but she simply must find Jin, no matter the cost. There is something she needs to know from him...It is this unwavering and ever-growing determination which drives Xiaoyu ever forward.",
+        "birthday": "April 7th",
+        "country": "China",
+        "style": "Baguazhang, Piguazhang-based Chinese Martial Arts",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/UNKaCD1mROSCvQZH9u7Y"
+    },
+    {
+        "characterName": "Nina Williams",
+        "bio": "Nina Williams is a master of the lethal arts and a professional killer known by the alias of \"Silent Assassin.\" She was employed by the Mishima Zaibatsu and acted as commander of the special forces unit, \"Tekken Force.\" However, after failing the mission to retrieve Jin Kazama, she left the unit to work as a freelance assassin. Some time later, Kazuya Mishima takes the lead in G Corporation's attempts at world domination. Kazuya recruits Nina as his direct subordinate and grants her the title of commander of the G Corporation forces.",
+        "birthday": "July 25th",
+        "country": "Ireland",
+        "style": "Assassination Arts",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/gVUzqrySQYOpFLuEhdtu"
+    },
+    {
+        "characterName": "Leroy Smith",
+        "bio": "Leroy Smith is extolled as a hero for freeing New York from the clutches of gangs. When he finds out that the Mishima Zaibatsu was the ringleader behind the war that tore the city apart half a century ago, he decides to participate in The King of Iron Fist Tournament with the sole purpose of taking them down. Then Heihachi Mishima, the head of the Mishima Zaibatsu, suddenly disappears. G Corp takes advantage of this situation and overthrows the Mishima Zaibatsu. G Corp continues its invasion, and soon the whole world will be ruled by its iron fist. After learning that Heihachi's son, Kazuya Mishima, is the leader of G Corp, Leroy and his dog, Sugar, know what they must do to restore peace in the world.",
+        "birthday": "May 16th",
+        "country": "U.S.A.",
+        "style": "Wing Chun",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/FC92gE6ITFK8a2IDVwHE"
+    },
+    {
+        "characterName": "Asuka Kazama",
+        "bio": "Asuka Kazama is a master of Kazama-style traditional martial arts and is a well-known mediator. She once defeated the young heiress Lili at The King of Iron Fist Tournament, but after that victory, Asuka got the feeling she was being followed wherever she went. Lili's increasingly irrational behavior got worse day by day, and one day Asuka came back to her home dojo having been bought out and covered in rose decorations. But these days of farcical shenanigans are about to come to an end with G Corp's invasion upon the world.",
+        "birthday": "December 5th",
+        "country": "Japan",
+        "style": "Kazama-Style Traditional Martial Arts",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/yrZoIcLGSc6FzPkR9jhC"
+    },
+    {
+        "characterName": "Lili",
+        "bio": "Daughter of a wealthy oil magnate from Monaco who, despite her pampered upbringing, loves to fight. Keeping it a secret from her peace-loving father, Lili uses the family private jet to fly around the globe in search of worthy opponents to hone her skills. All of it to defeat her eternal rival, Asuka Kazama, who has beaten her twice in The King of Iron Fist Tournament. Lili buys the Kazama family's dojo with her pocket money, decorates the entire dojo with roses, and sends Asuka a formal challenge. Imagining Asuka's angry face, Lili smiles elegantly while petting her cat, Salt.",
+        "birthday": "November 11th",
+        "country": "Monaco",
+        "style": "Self-Taught Style",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/pQi3O39ATPipjt8KqWgz"
+    },
+    {
+        "characterName": "Bryan Fury",
+        "bio": "Obtaining the perpetual generator, Bryan Fury became the ultimate replicant, using this endless source of energy to wreak havoc. Even after the battle between G Corp. and Mishima Zaibatsu concluded, Bryan continued waging acts of war around the globe, and quickly became the target of international police organizations. Something suddenly changed in Bryan when he confronted the elite counter terrorist unit of the international police agency he formerly belonged to in an urban conflict. Either a result of overuse in countless conflicts, or from a lingering memory of his mortal body, his perpetual generator overheated during battle. A surge in feelings of power and pleasure burned their imprint into his brain, turning it crimson red. When he awoke, he was alone in the devastated aftermath he had likely caused. \"Are you really the infamous Bryan Fury..?\" From under the rubble, the voice of someone who appeared to know him said, but was abruptly interrupted by the sounds of pummeling fists and maniacal laughter.",
+        "birthday": "June 8th",
+        "country": "U.S.A.",
+        "style": "Kickboxing",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/TYE4FpfT8uX7VmQeTpjn"
+    },
+    {
+        "characterName": "Hwoarang",
+        "bio": "A Taekwondo master, Hwoarang has considered Jin Kazama as his rival ever since their first fight ended in a draw. About six months ago, he meets Jin again in the Middle East. The black-winged figure that stood before him was the same that had trounced him in an instant in a previous encounter. With all the strength he could muster, Hwoarang succeeded in defeating the rampaging Jin. However, due to the intervention of the Union of Nations forces, Jin disappears once again. \"Victory was mine, but...\" he said. Hwoarang was left feeling incontent at the unresolved conflict with Jin after returning home, so he threw himself into stoic training in order to find answers. He quietly looks inward and gradually arrives at the answer — what he wants, and what he must do to achieve it.",
+        "birthday": "July 15th",
+        "country": "South Korea",
+        "style": "Taekwondo",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/uvoZ2mARwGw4aqc66QIj"
+    },
+    {
+        "characterName": "Claudio Serafino",
+        "bio": "Leader of the Sirius Marksmen, a group of exorcists who had banished evil in various forms since ancient times, Claudio Serafino was one of the most powerful exorcists in his organization. After learning from Heihachi Mishima six months earlier of Jin Kazama and Kazuya Mishima, and the power they command over the devil gene, Claudio decided to cooperate with Heihachi despite considerable opposition from within his own organization.",
+        "birthday": "May 21st",
+        "country": "Italy",
+        "style": "Sirius Exorcist Arts",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/ribd0tVpSryycGRbwYkY"
+    },
+    {
+        "characterName": "Azucena Milagros Ortiz Castillo",
+        "bio": "Azucena Milagros Ortiz Castillo, known better as the \"Coffee Queen,\" is beloved for her innocent personality and her fearless fighting style as an MMA champion. The only daughter of the family who owns Ortiz Farm, a coffee plantation located 2000 meters above sea level, Azucena grew up observing her father's trade and dreamed of becoming the world's best coffee farmer.",
+        "birthday": "June 30th",
+        "country": "Peru",
+        "style": "Mixed Martial Arts (Striker)",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/7UycvjwwQ52dahngE5Gt"
+    },
+    {
+        "characterName": "Raven",
+        "bio": "Codename: Raven. An agent and ninjutsu master, he is tasked with special ops missions for the UN's independent forces. Raven has engaged in missions all over the world, utilizing his ninjutsu to put a stop to conflicts before they even begin. However, the brutal power struggle between the Mishima Zaibatsu and G Corp threatens to bring the entire globe to its knees, and Raven only sees more chaos on the horizon.",
+        "birthday": "July 11th",
+        "country": "Unknown",
+        "style": "Ninjitsu",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/GfBegoCSS2Kr5gLZZgaf"
+    },
+    {
+        "characterName": "Leo",
+        "bio": "Leo is a Bajiquan user born to Niklas Kliesen, a world-renowned archaeologist, and Emma Kliesen, an authority in genetic research. With a father versed in martial arts and an inquisitively minded mother, Leo uses these inherited skills to set off on a hunt for the truth behind the mysterious circumstances of Emma Kliesen's death one year prior. Risking life and limb, Leo obtains confidential data from G Corp that Emma Kliesen had been researching the devil gene there. From this data, Leo also learns that Kazuya Mishima had sent out orders that key researchers who were no longer needed were to be \"taken care of.\"",
+        "birthday": "March 5th",
+        "country": "Germany",
+        "style": "Bajiquan",
+        "image":""
+    },
+    {
+        "characterName": "Steve Fox",
+        "bio": "Steve Fox is a middleweight boxing world champion whose ingenious technique and pace control in the ring have charmed countless audiences. Raised in a facility owned by the Mishima Zaibatsu, Steve went on a search for his real parents the moment he learned he was just a test subject.",
+        "birthday": "April 10th",
+        "country": "United Kingdom",
+        "style": "Boxing",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/fCB8R5oyTZes3L12Gumi"
+    },
+    {
+        "characterName": "Kuma",
+        "bio": "Kuma is Heihachi Mishima's pet and a member of the Mishima Zaibatsu's special forces, Tekken Force. He never misses the chance to volunteer in disaster relief efforts all across Southeast Asia. Locals are always reluctant to accept Kuma at first, fearing that he might attack them. But, with his playful nature and strong work ethic, Kuma gradually wins them over and becomes the town favorite.",
+        "birthday": "April 26th",
+        "country": "None",
+        "style": "Heihachi-Style Advanced Kuma Shin Ken",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/mDNhdtnST0mZ2k9MZ8Bn"
+    },
+    {
+        "characterName": "Yoshimitsu",
+        "bio": "Yoshimitsu is an inheritor of the Manji Ninjutsu and current head of the Manji Clan, a group of chivalrous thieves active since the Sengoku period. Six months ago, Yoshimitsu accepted a request from an investor of the refugee relief project. The task was to find archives that contained information on the past doings of the Mishima Zaibatsu.",
+        "birthday": "April 29th",
+        "country": "None (Formely Japan)",
+        "style": "Advanced Manji Ninjutsu",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/YN3pneoyR8iPWsasNEBG"
+    },
+    {
+        "characterName": "Shaheen",
+        "bio": "Shaheen works for a private military firm and is investigating the mysterious death of his best friend. Utilizing his \"peaceful\" negotiation skills, he learns from an executive of the Middle East G Corp branch that the mastermind is none other than Kazuya Mishima. The wheel of fate must have been turning that day 13 years ago when, on the same day Shaheen lost his family, he saved Salim, a boy around the same age as him, from an assassin. It was the first time he had used the techniques his father had ingrained in him meant to bring down enemies to instead save another's life.",
+        "birthday": "November 19th",
+        "country": "Saudi Arabia",
+        "style": "Close Quarters Combat",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/avCidy7zQXiMsJ1w6PGx"
+    },
+    {
+        "characterName": "Sergei Dragunov",
+        "bio": "Sergei Dragunov is a user of Commando Sambo and is feared for his alias \"The White Angel of Death,\" a name he earned through his sheer and overwhelming combat prowess. While the world was embroiled in the armed conflict between the Mishima Zaibatsu and G Corp, Dragunov joined the King of Iron Fist Tournament with a certain goal in mind. However, midway through the tournament, the tournament's organizer, Heihachi Mishima, goes missing, bringing the competition to a halt.",
+        "birthday": "May 11th",
+        "country": "Russia",
+        "style": "Commando Sambo",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/NEGrObcRRFGsYTgruOkH"
+    },
+    {
+        "characterName": "Feng Wei",
+        "bio": "Feng Wei is a master of Taijiquan who, guided by the teachings of the God Fist scrolls, aims to become the perfect warrior who transcends all — the Dragon God. However, at the most recent King of Iron Fist Tournament, Feng suffered a crushing defeat at the hands of Wing Chun master Leroy Smith.",
+        "birthday": "April 14th",
+        "country": "China",
+        "style": "Taijiquan",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/uQtpkMVrTWhog956iF5w"
+    },
+    {
+        "characterName": "Panda",
+        "bio": "Panda doubles as both Ling Xiaoyu's pet and bodyguard. A short while after Jin Kazama, whom Xiaoyu has feelings for, goes missing, she sets off on a journey to find him, leaving her home only to never return again. Determined to uphold her duty of protecting Xiaoyu, Panda tracks her all the way to the Mishima Zaibatsu building.",
+        "birthday": "October 28th",
+        "country": "None",
+        "style": "Heihachi-Style Advanced Kuma Shin Ken",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/OkLv8YRNROyZRFItvMkZ"
+    },
+    {
+        "characterName": "Lee Chaolan",
+        "bio": "Raised in a harsh environment as Heihachi Mishima's adopted son, Lee Chaolan now manages the global humanoid manufacturer, Violet Systems. Lee carries with him a bitter hatred of both Heihachi and Kazuya Mishima, and when he first meets Lars Alexandersson—a man who stands in opposition of the Mishima Zaibatsu—he intends to use him as a pawn for his own revenge.",
+        "birthday": "August 8th",
+        "country": "Japan",
+        "style": "Martial Arts",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/ttclARTYRyxVIgFga2oR"
+    },
+    {
+        "characterName": "Alisa Bosconovitch",
+        "bio": "Alisa Bosconovitch is an android built for the sole purpose of protecting Jin Kazama, the former head of the Mishima Zaibatsu. Designed to always abide by Jin's orders, Alisa's control over her own actions was temporarily overridden by her master, forcing her to engage in a battle to the death against Lars Alexandersson, despite her feelings for him. The battle caused her systems to shut down. However, thanks to the efforts of Lars and others, Alisa is miraculously rebooted and is now a member of the rebel army.",
+        "birthday": "November 30th",
+        "country": "Russia",
+        "style": "Thruster-Based High-Mobility Fighting Style",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/Get3SJCpTcGhb8D1EoUg"
+    },
+    {
+        "characterName": "Zafina",
+        "bio": "Zafina is a warrior born into a family of exorcists whose lineage dates back to the time of ancient dynasties. In her day-to-day life, however, she uses her exceptional spiritual abilities to earn a living as an astrologist.",
+        "birthday": "February 7th",
+        "country": "Unknown",
+        "style": "Ancient Assassination Arts",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/1Sqx7Nq3SlqTAAPwwKEZ"
+    },
+    {
+        "characterName": "Devil Jin",
+        "bio": "Devil Jin is another form of Jin Kazama—one that has lost all reasoning due to the devil blood that controls his mind. With the way he glides through the air on jet-black wings, \"devil\" is the perfect word to describe his appearance and abilities that lie beyond human capabilities.",
+        "birthday": "Unknown",
+        "country": "None",
+        "style": "Unknown",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/zynIZY0ReGzU4gKtGq3g"
+    },
+    {
+        "characterName": "Victor Chevalier",
+        "bio": "Enter Victor Chevalier, the living legend who founded the UN's independent forces. Descended from a lineage of distinguished knights, Victor has dreamed of rescuing those in need ever since he was a boy. Following in the footsteps of his father, a high-ranking naval officer, Victor enlists in the French Navy. Viewed as riding the coattails of his successful father by jealous peers,Victor was sent into dangerous operating zones again and again. Still, thanks to the time he spent diligently training with his father's mercenary friend from the East, Victor is able to use his knowledge of combat to come back from every mission alive and victorious.",
+        "birthday": "November 23rd",
+        "country": "France",
+        "style": "Super Spy CQB",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/6EHRVUoqTnSDkZ9tkEeU"
+    },
+    {
+        "characterName": "Reina",
+        "bio": "Meet Reina, the mysterious fighter who uses lightning-quick moves to overwhelm anyone who dares face her. Other than the fact she's a student of the Mishima Polytechnical School, everything else about her is shrouded in mystery. ",
+        "birthday": "October 13th",
+        "country": "Unknown",
+        "style": "Unknown",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/TfCpIKWORbmnzyPWwqkK"
+    },
+    {
+        "characterName": "Eddy Gordo",
+        "bio": "Eddy Gordo is a skilled capoeira user who has devoted half his life to honing his skills so he can exact revenge on Kazuya Mishima for his father's death.",
+        "birthday": "February 20th",
+        "country": "Brazil",
+        "style": "Capoeira",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/wu2GPdDXTfyrLIAeNE3B"
+    },
+    {
+        "characterName": "Lidia",
+        "bio": "Lidia Sobieska is not only a world-class karate champion, but also one of the political world's most passionate foodies. This has garnered her popularity from the people of Poland, leading her to be known as the \"Warrior Prime Minister.\"",
+        "birthday": "December 3rd",
+        "country": "Poland",
+        "style": "Traditional Karate",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/nVOhZaboQlK0mHMusM3I"
+    },
+    {
+        "characterName": "Heihachi Mishima",
+        "bio": "Heihachi Mishima rightly earned his moniker the \"King of the Iron Fist\" after founding the Mishima Zaibatsu with its formidable private army and being feared worldwide for his countless acts of tyranny. Heihachi waged a brutal war that divided the world in two with G Corp—led by his son who bore the devil gene, Kazuya Mishima. At its culmination, Heihachi was defeated by Kazuya and thrown into a river of lava, leading the world to believe that he was truly dead...",
+        "birthday": "June 10th",
+        "country": "Likely Japan (Refuted by Japanese government)",
+        "style": "Mishima-Style Fighting Karate",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/5R0EmRH6ShedHJr1KO3k"
+    },
+    {
+        "characterName": "Clive Rosfield",
+        "bio": "Clive Rosfield—firstborn son of the Archduke of Rosaria and Dominant of Fire—has spent the past five years wielding the power of the Eikon, Ifrit, to help his people break free from the bonds of fate and learn to live on their own terms. However, as the final battle looms near, he is overwhelmed by an unknown force and falls into a deep stupor. It is some time later that Clive, stirred by the cries of his loyal hound, Torgal, awakens to discover his surroundings are strangely unfamiliar. Realizing he has been borne far from his own realm of Valisthea, he begins the search for a way back home.",
+        "birthday": "",
+        "country": "Grand Duchy of Rosaria",
+        "style": "Dominant",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/3UInPterQ9GUUE6boA61"
+    },
+    {
+        "characterName": "Anna Williams",
+        "bio": "Younger sister to Nina Williams, Anna Williams is breathtaking not only in her beauty but also her skills as a deadly former assassin, earning her the alias of \"Scarlet Lightning\". Six months ago, Anna was working as an operations strategist for G Corporation after putting her life as a professional killer behind her. It was there she met the love of her life, a G Corp executive. Soon thereafter, they were set to marry. But, on the day of her wedding, her husband-to-be was murdered by her sister Nina. To add salt to such a deep wound, Anna was also suddenly cut from her position at G Corp. Burning with a fierce hatred towards Nina, Anna put her old information network to work once more to uncover the truth behind this series of devastating events.",
+        "birthday": "",
+        "country": "Ireland",
+        "style": "Assassination Arts",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/LM1lWS03SreokeZOp6h7"
+    },
+    {
+        "characterName": "Fahkumram",
+        "bio": "Fahkumram is a Muay Thai fighter who once dominated the scene undefeated and was considered one of Thailand's national heroes. One fateful day, he disobeyed the order of corrupt Thailand military officers to lose a match on purpose, which resulted in the military taking him into custody as well as detaining his wife and daughter as hostages. Since then, Fahkumram was forced to toil under the Thai military as their pawn. He was ordered to participate in The King of Iron Fist Tournament to crush the Mishima Zaibatsu.",
+        "birthday": "",
+        "country": "Thailand",
+        "style": "Muay Thai",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/cmayl43al58lu07lp5pmrvnmk"
+    },
+    {
+        "characterName": "Armor-King",
+        "bio": "The heel wrestler Armor King set foot into the ring of The King of the Iron Fist Tournament 7 seeking to avenge his fallen elder brother. However, before he could sate his thirst for vengeance, fate intervened when the tournament's organizer suddenly vanished, leading to the tournament's cancellation. Soon after, the world was overtaken by G Corp's reign of terror. Unsure of when he'd get his next opportunity for vengeance, Armor King was forced to spend his days stewing in his own anger.",
+        "birthday": "January 17th",
+        "country": "Unknown",
+        "style": "Pro Wrestling",
+        "image":"https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/cmd3lrl1zbt4507lhk500rmo0"
+    }
+]
