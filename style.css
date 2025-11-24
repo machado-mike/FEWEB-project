@@ -1,0 +1,184 @@
+/*Global page styling*/
+body {
+    background-color: #0a0a0a;
+    color: #f5f5f5;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: 2em auto;
+}
+
+/*Search bar*/
+.search-bar {
+    margin: 1.5em 0;
+}
+
+input {
+    padding: 10px;
+    width: 300px;
+    border-radius: 4px;
+    border: none;
+}
+
+button {
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/*Move list*/
+.collapsible {
+    cursor: pointer;
+    background: #222;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.collapsible:hover {
+    background: #333;
+}
+
+.collapsible .toggle-icon {
+    font-size: 14px;
+}
+
+.collapsible-content {
+    display: none;
+    margin-top: 10px;
+}
+
+#move-search {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.move-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+}
+
+.move-table th {
+    background: #111;
+    color: #fff;
+    text-align: left;
+    padding: 6px 8px;
+}
+
+.move-table td {
+    border: 1px solid #444;
+    padding: 5px 8px;
+}
+
+.move-table tr:nth-child(even) {
+    background: #3a3939;
+}
+
+.move-table tr:hover {
+    background: #ddd;
+}
+
+/* Home screen*/
+#home {
+    text-align: center;
+    margin-top: 60px;
+}
+
+#home h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+#home p {
+    color: #666;
+    font-size: 1.1em;
+    max-width: 600px;
+    margin: 0 auto 30px;
+}
+
+/*Character bio section*/
+#characterInfo {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    background-color: #1c1c1c;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+#characterInfo .info-left img {
+    width: 400px;
+    border-radius: 10px;
+}
+
+#characterInfo .info-right {
+    text-align: left;
+    max-width: 60%;
+}
+
+#characterInfo .info-right h3 {
+    margin-top: 0;
+    font-size: 28px;
+    color: #ff4b4b;
+}
+
+#characterInfo .info-right p {
+    margin-bottom: 10px;
+    line-height: 1.5em;
+}
+
+/*Move list notations*/
+.notations {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 20px 0;
+    flex-wrap: wrap;
+}
+
+.notation-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 170px;
+}
+
+.notation-img {
+    max-width: 170px;
+    max-height: 150px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.notation-title {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/*Youtube trailer*/
+.trailer {
+    margin: 30px 0;
+    text-align: center;
+}
+
+.trailer iframe {
+    max-width: 100%;
+    border-radius: 10px;
+}
