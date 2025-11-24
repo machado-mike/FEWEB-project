@@ -24,7 +24,7 @@ function fetchCharacter(characterName) {
  * @returns - Resolves with a YouTube video ID, or null if not found.
  */
 function fetchYouTubeTrailer(characterName) {
-    const API_KEY = "AIzaSyATIxakgreF9oL9yJpAGitqX4eme1tUUVQ";
+    const API_KEY = "YOUTUBE_API";
     const query = encodeURIComponent(`"Tekken 8 ${characterName} trailer"`);
     const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&q=${query}&type=video&maxResults=1&key=${API_KEY}`;
 
@@ -79,4 +79,5 @@ function fetchLocalCharacterInfo(characterName) {
             console.error("Error loading charinfo.json:", err);
             return null;
         });
+
 }
